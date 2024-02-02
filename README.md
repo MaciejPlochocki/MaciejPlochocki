@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MaciejPlochocki
+- 👋 Hi, I’m @MaciejPlochocki student on Univeristy of Bialystok
 - 👀 I’m interested in Football and IT Tech.
-- 🌱 I’m currently learning JS, C#....
+- 🌱 I’m currently learning Java,Python,SQL
 - 📫 How to reach me : 
 - linkedin www.linkedin.com/in/maciej-płochocki-1a2aa8256
 - mail plochockim001@gmail.com
