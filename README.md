@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java,Python,SQL
 - 📫 How to reach me : 
 - linkedin www.linkedin.com/in/maciej-płochocki-1a2aa8256
-- mail plochockim001@gmail.com
+- mail plochocki.maciej001@gmail.com
 
 <!---
 MaciejPlochocki/MaciejPlochocki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
